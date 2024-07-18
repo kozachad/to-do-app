@@ -1,0 +1,72 @@
+Log Entry
+9 Temmuz 2024 Salı 13:25:23
+Message Title : New User
+Message  : New User Created
+Username: gunes
+PasswordHash: ZMNZI3/i7vnwQOUV2BJMacJzEgZKfgn+aq7jbIXGEr8=
+------------------------------------------
+
+Log Entry
+9 Temmuz 2024 Salı 13:26:08
+Message Title : New User
+Message  : New User Created
+Username: gune
+PasswordHash: 9747/wxVFd2o4TKv47bGpmAxnrwuKf3mF2v7hY89oQY=
+------------------------------------------
+
+Log Entry
+9 Temmuz 2024 Salı 13:26:28
+Message Title : Activity
+Message  : Post
+Name: temizlik
+DueDate: 1.10.2003 00:00:00
+Posted By (RealId): 1009
+------------------------------------------
+
+Log Entry
+9 Temmuz 2024 Salı 13:26:36
+Message Title : Activity
+Message  : Edit
+Name: sa
+DueDate: 12.12.2022 00:00:00
+------------------------------------------
+
+Log Entry
+9 Temmuz 2024 Salı 13:26:57
+Message Title : Activity
+Message  : Post
+Name: koza
+DueDate: 1.10.2022 00:00:00
+Posted By (RealId): 1009
+------------------------------------------
+
+Log Entry
+9 Temmuz 2024 Salı 13:27:20
+Message Title : Activity
+Message  : Delete
+ID: 1040
+------------------------------------------
+
+Log Entry
+9 Temmuz 2024 Salı 13:27:27
+Message Title : Activity
+Message  : Delete
+ID: 1039
+------------------------------------------
+
+Log Entry
+9 Temmuz 2024 Salı 13:29:57
+Message Title : Activity
+Message  : Post
+Name: gunes
+DueDate: 1.01.1999 00:00:00
+Posted By (RealId): 1009
+------------------------------------------
+
+Log Entry
+9 Temmuz 2024 Salı 13:30:21
+Message Title : Activity
+Message  : Delete
+ID: 1041
+------------------------------------------
+

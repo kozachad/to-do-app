@@ -1,0 +1,143 @@
+Log Entry
+3 Temmuz 2024 Çarşamba 13:15:10
+Message Title : title
+Message  : message
+------------------------------------------
+
+Log Entry
+3 Temmuz 2024 Çarşamba 13:19:22
+Message Title : New User
+Message  : New User Created : 
+Username :koza
+PasswordHash :pcgIc9a5dS2m3rSGGk5oYohKaawMrVxN+FaeNSFgsJ8=
+------------------------------------------
+
+Log Entry
+3 Temmuz 2024 Çarşamba 13:20:28
+Message Title : New User
+Message  : New User Created
+Username: yeni
+PasswordHash: NGRAhCsp6FAIE4UKFiZvEzR3HakDL3J/CXO14tsfrVE=
+------------------------------------------
+
+Log Entry
+3 Temmuz 2024 Çarşamba 13:23:45
+Message Title : New User
+Message  : New User Created
+Username: kozatest
+PasswordHash: CftiBZoKOifKoZvxZPTSfKEDqhtNbfikSqHHZiTB918=
+------------------------------------------
+
+Log Entry
+3 Temmuz 2024 Çarşamba 13:24:22
+Message Title : New User
+Message  : New User Created
+Username: kozatest
+PasswordHash: Z3rxV+adAKeruXhzg45uDYFnjlvC7ndhrbL1uxbl5bU=
+------------------------------------------
+
+Log Entry
+3 Temmuz 2024 Çarşamba 13:24:42
+Message Title : Activity
+Message  : Post
+Name: kozatest
+DueDate: 1.10.2003 00:00:00
+Posted By (RealId): 9
+------------------------------------------
+
+Log Entry
+3 Temmuz 2024 Çarşamba 13:24:52
+Message Title : Activity
+Message  : Edit
+Name: kozatest2
+DueDate: 18.10.1991 00:00:00
+------------------------------------------
+
+Log Entry
+3 Temmuz 2024 Çarşamba 13:24:54
+Message Title : Activity
+Message  : Delete
+ID: 36
+------------------------------------------
+
+Log Entry
+3 Temmuz 2024 Çarşamba 13:36:52
+Message Title : New User
+Message  : New User Created
+Username: barış15
+PasswordHash: Wjokcd09usgN+dPPp0INFnKuzRKopX6RGSZl1yVVsi0=
+------------------------------------------
+
+Log Entry
+3 Temmuz 2024 Çarşamba 13:36:52
+Message Title : New User
+Message  : New User Created
+Username: barış15
+PasswordHash: c0Bw+9+wE1S0P5H/6fDijC/nZHpRVjaPmtahx5J/nEw=
+------------------------------------------
+
+Log Entry
+3 Temmuz 2024 Çarşamba 13:37:12
+Message Title : Activity
+Message  : Post
+Name: temizlik
+DueDate: 1.10.2020 00:00:00
+Posted By (RealId): 12
+------------------------------------------
+
+Log Entry
+3 Temmuz 2024 Çarşamba 13:37:22
+Message Title : Activity
+Message  : Edit
+Name: 12
+DueDate: 1.10.2022 00:00:00
+------------------------------------------
+
+Log Entry
+3 Temmuz 2024 Çarşamba 13:37:26
+Message Title : Activity
+Message  : Delete
+ID: 37
+------------------------------------------
+
+Log Entry
+3 Temmuz 2024 Çarşamba 13:45:56
+Message Title : Activity
+Message  : Post
+Name: sa
+DueDate: 12.12.2102 00:00:00
+Posted By (RealId): 4
+------------------------------------------
+
+Log Entry
+3 Temmuz 2024 Çarşamba 13:46:19
+Message Title : Activity
+Message  : Post
+Name: sa
+DueDate: 12.11.2021 00:00:00
+Posted By (RealId): 4
+------------------------------------------
+
+Log Entry
+3 Temmuz 2024 Çarşamba 13:46:23
+Message Title : Activity
+Message  : Delete
+ID: 40
+------------------------------------------
+
+Log Entry
+3 Temmuz 2024 Çarşamba 13:47:07
+Message Title : Activity
+Message  : Post
+Name: barıs
+DueDate: 1.10.2003 00:00:00
+Posted By (RealId): 4
+------------------------------------------
+
+Log Entry
+3 Temmuz 2024 Çarşamba 13:47:09
+Message Title : Activity
+Message  : Delete
+ID: 41
+------------------------------------------
+

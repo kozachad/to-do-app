@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList", "ToDoList\ToDoList.csproj", "{8704D8D2-75CA-491F-B5EF-777BA4506BC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList_winforms", "ToDoList_winforms\ToDoList_winforms.csproj", "{69E0AC28-4108-450B-AF6A-3DC351A2DD54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8704D8D2-75CA-491F-B5EF-777BA4506BC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8704D8D2-75CA-491F-B5EF-777BA4506BC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8704D8D2-75CA-491F-B5EF-777BA4506BC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8704D8D2-75CA-491F-B5EF-777BA4506BC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69E0AC28-4108-450B-AF6A-3DC351A2DD54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69E0AC28-4108-450B-AF6A-3DC351A2DD54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69E0AC28-4108-450B-AF6A-3DC351A2DD54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69E0AC28-4108-450B-AF6A-3DC351A2DD54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30E915BD-4B9C-4878-AFB3-8424ED3B3594}
+	EndGlobalSection
+EndGlobal

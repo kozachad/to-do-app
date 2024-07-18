@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mesut\\OneDrive\\Desktop\\Kaan Projeler\\ToDoList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8704D8D2-75CA-491F-B5EF-777BA4506BC0}|ToDoList\\ToDoList.csproj|c:\\users\\mesut\\onedrive\\desktop\\kaan projeler\\todolist\\todolist\\logevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8704D8D2-75CA-491F-B5EF-777BA4506BC0}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\logevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8704D8D2-75CA-491F-B5EF-777BA4506BC0}|ToDoList\\ToDoList.csproj|c:\\users\\mesut\\onedrive\\desktop\\kaan projeler\\todolist\\todolist\\controllers\\todoapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8704D8D2-75CA-491F-B5EF-777BA4506BC0}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\controllers\\todoapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8704D8D2-75CA-491F-B5EF-777BA4506BC0}|ToDoList\\ToDoList.csproj|c:\\users\\mesut\\onedrive\\desktop\\kaan projeler\\todolist\\todolist\\dtos\\realtokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8704D8D2-75CA-491F-B5EF-777BA4506BC0}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\dtos\\realtokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8704D8D2-75CA-491F-B5EF-777BA4506BC0}|ToDoList\\ToDoList.csproj|c:\\users\\mesut\\onedrive\\desktop\\kaan projeler\\todolist\\todolist\\models\\amcdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8704D8D2-75CA-491F-B5EF-777BA4506BC0}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\models\\amcdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8704D8D2-75CA-491F-B5EF-777BA4506BC0}|ToDoList\\ToDoList.csproj|c:\\users\\mesut\\onedrive\\desktop\\kaan projeler\\todolist\\todolist\\models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8704D8D2-75CA-491F-B5EF-777BA4506BC0}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8704D8D2-75CA-491F-B5EF-777BA4506BC0}|ToDoList\\ToDoList.csproj|c:\\users\\mesut\\onedrive\\desktop\\kaan projeler\\todolist\\todolist\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8704D8D2-75CA-491F-B5EF-777BA4506BC0}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8704D8D2-75CA-491F-B5EF-777BA4506BC0}|ToDoList\\ToDoList.csproj|c:\\users\\mesut\\onedrive\\desktop\\kaan projeler\\todolist\\todolist\\dtos\\activitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8704D8D2-75CA-491F-B5EF-777BA4506BC0}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\dtos\\activitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8704D8D2-75CA-491F-B5EF-777BA4506BC0}|ToDoList\\ToDoList.csproj|c:\\users\\mesut\\onedrive\\desktop\\kaan projeler\\todolist\\todolist\\dtos\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8704D8D2-75CA-491F-B5EF-777BA4506BC0}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\dtos\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8704D8D2-75CA-491F-B5EF-777BA4506BC0}|ToDoList\\ToDoList.csproj|c:\\users\\mesut\\onedrive\\desktop\\kaan projeler\\todolist\\todolist\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8704D8D2-75CA-491F-B5EF-777BA4506BC0}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E0AC28-4108-450B-AF6A-3DC351A2DD54}|ToDoList_winforms\\ToDoList_winforms.csproj|C:\\Users\\mesut\\OneDrive\\Desktop\\Kaan Projeler\\ToDoList\\todolist_winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E0AC28-4108-450B-AF6A-3DC351A2DD54}|ToDoList_winforms\\ToDoList_winforms.csproj|solutionrelative:todolist_winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E0AC28-4108-450B-AF6A-3DC351A2DD54}|ToDoList_winforms\\ToDoList_winforms.csproj|C:\\Users\\mesut\\OneDrive\\Desktop\\Kaan Projeler\\ToDoList\\todolist_winforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E0AC28-4108-450B-AF6A-3DC351A2DD54}|ToDoList_winforms\\ToDoList_winforms.csproj|solutionrelative:todolist_winforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E0AC28-4108-450B-AF6A-3DC351A2DD54}|ToDoList_winforms\\ToDoList_winforms.csproj|C:\\Users\\mesut\\OneDrive\\Desktop\\Kaan Projeler\\ToDoList\\todolist_winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69E0AC28-4108-450B-AF6A-3DC351A2DD54}|ToDoList_winforms\\ToDoList_winforms.csproj|solutionrelative:todolist_winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E0AC28-4108-450B-AF6A-3DC351A2DD54}|ToDoList_winforms\\ToDoList_winforms.csproj|C:\\Users\\mesut\\OneDrive\\Desktop\\Kaan Projeler\\ToDoList\\todolist_winforms\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{69E0AC28-4108-450B-AF6A-3DC351A2DD54}|ToDoList_winforms\\ToDoList_winforms.csproj|solutionrelative:todolist_winforms\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8704D8D2-75CA-491F-B5EF-777BA4506BC0}|ToDoList\\ToDoList.csproj|c:\\users\\mesut\\onedrive\\desktop\\kaan projeler\\todolist\\todolist\\todolist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8704D8D2-75CA-491F-B5EF-777BA4506BC0}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\todolist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoApiController.cs",
+              "DocumentMoniker": "C:\\Users\\mesut\\OneDrive\\Desktop\\Kaan Projeler\\ToDoList\\ToDoList\\Controllers\\TodoApiController.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Controllers\\TodoApiController.cs",
+              "ToolTip": "C:\\Users\\mesut\\OneDrive\\Desktop\\Kaan Projeler\\ToDoList\\ToDoList\\Controllers\\TodoApiController.cs",
+              "RelativeToolTip": "ToDoList\\Controllers\\TodoApiController.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAjwIQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T05:50:08.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogEvents.cs",
+              "DocumentMoniker": "C:\\Users\\mesut\\OneDrive\\Desktop\\Kaan Projeler\\ToDoList\\ToDoList\\LogEvents.cs",
+              "RelativeDocumentMoniker": "ToDoList\\LogEvents.cs",
+              "ToolTip": "C:\\Users\\mesut\\OneDrive\\Desktop\\Kaan Projeler\\ToDoList\\ToDoList\\LogEvents.cs",
+              "RelativeToolTip": "ToDoList\\LogEvents.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:24:31.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mesut\\OneDrive\\Desktop\\Kaan Projeler\\ToDoList\\ToDoList\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "ToDoList\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\mesut\\OneDrive\\Desktop\\Kaan Projeler\\ToDoList\\ToDoList\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "ToDoList\\DTOs\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T09:02:18.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RealTokenDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mesut\\OneDrive\\Desktop\\Kaan Projeler\\ToDoList\\ToDoList\\DTOs\\RealTokenDTO.cs",
+              "RelativeDocumentMoniker": "ToDoList\\DTOs\\RealTokenDTO.cs",
+              "ToolTip": "C:\\Users\\mesut\\OneDrive\\Desktop\\Kaan Projeler\\ToDoList\\ToDoList\\DTOs\\RealTokenDTO.cs",
+              "RelativeToolTip": "ToDoList\\DTOs\\RealTokenDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T12:15:36.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mesut\\OneDrive\\Desktop\\Kaan Projeler\\ToDoList\\ToDoList\\DTOs\\AccountDTO.cs",
+              "RelativeDocumentMoniker": "ToDoList\\DTOs\\AccountDTO.cs",
+              "ToolTip": "C:\\Users\\mesut\\OneDrive\\Desktop\\Kaan Projeler\\ToDoList\\ToDoList\\DTOs\\AccountDTO.cs",
+              "RelativeToolTip": "ToDoList\\DTOs\\AccountDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T09:02:01.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\mesut\\OneDrive\\Desktop\\Kaan Projeler\\ToDoList\\ToDoList\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\mesut\\OneDrive\\Desktop\\Kaan Projeler\\ToDoList\\ToDoList\\Models\\User.cs",
+              "RelativeToolTip": "ToDoList\\Models\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T09:00:30.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Activity.cs",
+              "DocumentMoniker": "C:\\Users\\mesut\\OneDrive\\Desktop\\Kaan Projeler\\ToDoList\\ToDoList\\Models\\Activity.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Models\\Activity.cs",
+              "ToolTip": "C:\\Users\\mesut\\OneDrive\\Desktop\\Kaan Projeler\\ToDoList\\ToDoList\\Models\\Activity.cs",
+              "RelativeToolTip": "ToDoList\\Models\\Activity.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAswBEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T08:59:46.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AMCDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mesut\\OneDrive\\Desktop\\Kaan Projeler\\ToDoList\\ToDoList\\Models\\AMCDbContext.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Models\\AMCDbContext.cs",
+              "ToolTip": "C:\\Users\\mesut\\OneDrive\\Desktop\\Kaan Projeler\\ToDoList\\ToDoList\\Models\\AMCDbContext.cs",
+              "RelativeToolTip": "ToDoList\\Models\\AMCDbContext.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwCQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T14:17:24.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ActivityDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mesut\\OneDrive\\Desktop\\Kaan Projeler\\ToDoList\\ToDoList\\DTOs\\ActivityDTO.cs",
+              "RelativeDocumentMoniker": "ToDoList\\DTOs\\ActivityDTO.cs",
+              "ToolTip": "C:\\Users\\mesut\\OneDrive\\Desktop\\Kaan Projeler\\ToDoList\\ToDoList\\DTOs\\ActivityDTO.cs",
+              "RelativeToolTip": "ToDoList\\DTOs\\ActivityDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T09:02:06.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ToDoList.csproj",
+              "DocumentMoniker": "C:\\Users\\mesut\\OneDrive\\Desktop\\Kaan Projeler\\ToDoList\\ToDoList\\ToDoList.csproj",
+              "RelativeDocumentMoniker": "ToDoList\\ToDoList.csproj",
+              "ToolTip": "C:\\Users\\mesut\\OneDrive\\Desktop\\Kaan Projeler\\ToDoList\\ToDoList\\ToDoList.csproj",
+              "RelativeToolTip": "ToDoList\\ToDoList.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-28T08:51:49.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\mesut\\OneDrive\\Desktop\\Kaan Projeler\\ToDoList\\ToDoList_winforms\\Form1.resx",
+              "RelativeDocumentMoniker": "ToDoList_winforms\\Form1.resx",
+              "ToolTip": "C:\\Users\\mesut\\OneDrive\\Desktop\\Kaan Projeler\\ToDoList\\ToDoList_winforms\\Form1.resx",
+              "RelativeToolTip": "ToDoList_winforms\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-28T08:55:19.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mesut\\OneDrive\\Desktop\\Kaan Projeler\\ToDoList\\ToDoList_winforms\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ToDoList_winforms\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\mesut\\OneDrive\\Desktop\\Kaan Projeler\\ToDoList\\ToDoList_winforms\\Form1.Designer.cs",
+              "RelativeToolTip": "ToDoList_winforms\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T08:43:50.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mesut\\OneDrive\\Desktop\\Kaan Projeler\\ToDoList\\ToDoList_winforms\\Form1.cs",
+              "RelativeDocumentMoniker": "ToDoList_winforms\\Form1.cs",
+              "ToolTip": "C:\\Users\\mesut\\OneDrive\\Desktop\\Kaan Projeler\\ToDoList\\ToDoList_winforms\\Form1.cs",
+              "RelativeToolTip": "ToDoList_winforms\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T08:43:07.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mesut\\OneDrive\\Desktop\\Kaan Projeler\\ToDoList\\ToDoList_winforms\\Form1.cs",
+              "RelativeDocumentMoniker": "ToDoList_winforms\\Form1.cs",
+              "ToolTip": "C:\\Users\\mesut\\OneDrive\\Desktop\\Kaan Projeler\\ToDoList\\ToDoList_winforms\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ToDoList_winforms\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T08:33:23.1Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

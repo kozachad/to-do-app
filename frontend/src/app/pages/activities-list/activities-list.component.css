@@ -1,0 +1,66 @@
+h1 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+table {
+  width: 80%;
+  margin: 0 auto;
+  border-collapse: collapse;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+th, td {
+  padding: 12px 15px;
+  text-align: left;
+  border: 1px solid #ddd;
+}
+
+th {
+  background-color: #f4f4f4;
+  font-weight: bold;
+  color: #333;
+}
+
+td {
+  color: #666;
+}
+
+tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+button {
+  padding: 8px 12px;
+  border: none;
+  border-radius: 4px;
+  background-color: #007bff;
+  color: #fff;
+  font-size: 14px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+button.router-link {
+  display: block;
+  width: fit-content;
+  margin: 20px auto 0;
+  text-align: center;
+  background-color: #28a745;
+}
+
+button.router-link:hover {
+  background-color: #218838;
+}
+
+/* Butonlar arasında boşluk bırakmak için stil */
+.button-group {
+  display: flex;
+  gap: 10px; /* Butonlar arasında 10px boşluk bırakır */
+}

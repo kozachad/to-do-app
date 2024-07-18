@@ -1,0 +1,10 @@
+<form [formGroup]="activityForm" (ngSubmit)="onSubmit()">
+    <label for="name">Name:</label>
+    <input id="name" formControlName="name" type="text">
+  
+    <label for="dueDate">Due Date:</label>
+    <input id="dueDate" formControlName="dueDate" type="date">
+  
+    <button type="submit">Save</button>
+  </form>
+  
