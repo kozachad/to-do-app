@@ -40,7 +40,7 @@ This project is a To-Do application with a login system protected by JWT, allowi
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/to-do-app.git
+    git clone https://github.com/kozachad/to-do-app.git
     cd to-do-app/backend
     ```
 
